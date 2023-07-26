@@ -2,7 +2,7 @@
 
 ## 📖 About Me
 
-- 🎓 I'm a 2nd year student at [SRM University, Sonepat](https://srmuniversity.ac.in/).
+- 🎓 I'm a 3rd year student at [SRM University, Sonepat](https://srmuniversity.ac.in/).
 - 🌱 I’m currently learning **Web Development**.
 - ⚡ Fun fact: I love playing **Piano**.
 - 💬 Ask me about **Python**.
