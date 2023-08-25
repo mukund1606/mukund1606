@@ -35,7 +35,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mukund1606&label=Profile%20views&color=0e75b6&style=flat" alt="mukund1606" /> </p>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukund1606&show_icons=true&theme=radical" alt="mukund1606" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=mukund1606&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="mukund1606" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&layout=compact&theme=radical" alt="mukund1606" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukund1606&theme=radical" alt="mukund1606" /></p>
 </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukund1606" alt="mukund1606" /></a> </p>
