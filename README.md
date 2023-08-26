@@ -1,41 +1,195 @@
-<h1 align="center">Hi 👋, I'm Mukund Mittal</h1>
-<h3 align="center">A Passionate Full Stack Web | Python Developer from India</h3>
+<style>
+  h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+  border: 0;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+}
 
+  @keyframes myanimation {
+    0% {
+      color: #ee6055;
+    }
+    25% {
+      color: #60d394;
+    }
+    50% {
+      color: #aaf683;
+    }
+    75% {
+      color: #ffd97d;
+    }
+    100% {
+      color: #ff9b85;
+    }
+  }
 
-## 📖 About Me
+  #top-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+</style>
+<div id="top-container">
+  <h1>ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 𝕄𝕦𝕜𝕦𝕟𝕕 𝕄𝕚𝕥𝕥𝕒𝕝</h1>
+  <span>
+    <!-- <p align="center"> <img src="https://profile-counter.glitch.me/mukund/count.svg" alt="profile counter">
+    </p> -->
+  <span>
+</div>
 
-- 🎓 I'm a 3rd year student at [SRM University, Sonepat](https://srmuniversity.ac.in/).
+## ɪ'ᴍ ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ
 
-- 🔭 I’m currently working on [Learning Three.js](https://github.com/mukund1606/learning-three-js)
+## 📖 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
 
-- 🌱 I’m currently learning **Three.js, Blender and 3D for Web**
+- 🎓 3ʀᴅ ʏᴇᴀʀ ꜱᴛᴜᴅᴇɴᴛ ᴀᴛ, [ꜱʀᴍ ᴜɴɪᴠᴇʀꜱɪᴛʏ, ꜱᴏɴᴇᴘᴀᴛ](https://srmuniversity.ac.in/).
 
-- 💬 Ask me about **Python, Nextjs, React**
+- 🌱 ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴛʜʀᴇᴇ.ᴊꜱ, ᴛꜱ, ɴᴇxᴛ.ᴊꜱ**
 
-- 📫 How to reach me **mukund.mukulmittal@gmail.com**
+- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **ᴘʏᴛʜᴏɴ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ɴᴇxᴛᴊꜱ**
 
-- ⚡ Fun fact **I love music and space**
+- ⚡ ꜰᴜɴ ꜰᴀᴄᴛ **ɪ ʟᴏᴠᴇ ᴍᴜꜱɪᴄ ᴀɴᴅ ꜱᴘᴀᴄᴇ**
 
-## Connect with me:
+<!-- - 🔭 ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [ʟᴇᴀʀɴɪɴɢ ᴛʜʀᴇᴇ.ᴊꜱ](https://github.com/mukund1606/learning-three-js) -->
+
+## 📞 ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕎𝕚𝕥𝕙 𝕄𝕖:
+
 <p align="left">
-<a href="https://twitter.com/mukund166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukund166" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mukund1606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukund1606" height="30" width="40" /></a>
-<a href="https://kaggle.com/mukundmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mukundmittal" height="30" width="40" /></a>
-<a href="https://instagram.com/mukund1606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukund1606" height="30" width="40" /></a>
-<a href="https://hashnode.com/@mukund1606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mukund1606" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mukund1606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mukund1606" height="30" width="40" /></a>
+<!-- Twitter -->
+  <a href="https://twitter.com/mukund166" target="blank"><img align="center" src="./icons/twitter.svg" alt="mukund1606" height="45" /></a>
+<!-- LinkedIn -->
+  <a href="https://linkedin.com/in/mukund1606" target="blank"><img align="center" src="./icons/linkedin.svg" alt="mukund1606" height="50" /></a>
+<!-- Kaggle -->
+  <a href="https://kaggle.com/mukundmittal" target="blank"><img align="center" src="./icons/kaggle.svg" alt="mukundmittal" height="40" /></a>
+<!-- Instagram -->
+  <a href="https://instagram.com/mukund1606" target="blank"><img align="center" src="./icons/ig.svg" alt="mukund1606" height="50" /></a>
+<!-- HashNode -->
+  <a href="https://hashnode.com/@mukund1606" target="blank"><img align="center" src="./icons/hashnode.svg" alt="@mukund1606" height="40" /></a>
+<!-- Youtube -->
+  <a href="https://www.youtube.com/@mukund1606" target="blank"><img align="center" src="./icons/yt.svg" alt="@mukund1606" height="50" /></a>
 </p>
 
-## Languages and Tools:
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## ⚙️ 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤:
 
+<p align="left">
+<!-- Arduino -->
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="./icons/arduino.svg" alt="arduino" height="40"/></a>
+<!-- C++ -->
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./icons/cpp.svg" alt="cplusplus" height="40"/></a> 
+<!-- CSS -->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./icons/css.svg" alt="css3" height="40"/></a>
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./icons/docker.svg" alt="docker" height="40"/></a>
+<!-- Express -->
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="./icons/express.svg" alt="express" height="40"/></a>
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./icons/figma.svg" alt="figma" height="40"/></a>
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./icons/git.svg" alt="git" height="40"/></a>
+<!-- HTML5 -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./icons/html.svg" alt="html5" height="40"/></a>
+<!-- JS -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./icons/js.svg" alt="javascript" width="40" height="40"/></a>
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./icons/mongodb.svg" alt="mongodb" height="40"/></a>
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./icons/mysql.svg" alt="mysql" height="40"/></a>
+<!-- NextJS -->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="./icons/nextjs.svg" alt="nextjs" height="40"/></a>
+<!-- NodeJS -->
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./icons/nodejs.svg" alt="nodejs" height="40"/></a>
+<!-- OpenCV -->
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="./icons/opencv.svg" alt="opencv" height="40"/></a>
+<!-- Postgress SQL -->
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="./icons/postgres.svg" alt="postgresql" height="40"/></a>
+<!-- Postman -->
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="./icons/postman.svg" alt="postman" height="40"/></a>
+<!-- Python -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./icons/python.svg" alt="python" height="40"/></a>
+<!-- React -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./icons/react.svg" alt="react" height="40"/></a>
+<!-- SASS -->
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="./icons/sass.svg" alt="sass" height="40"/></a>
+<!-- Selenium -->
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="./icons/selenium.svg" alt="selenium" height="40"/></a>
+<!-- Tailwind -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="./icons/tailwind.svg" alt="tailwind" height="40"/></a>
+<!-- TypeScript -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./icons/ts.svg" alt="typescript" height="40"/></a>
+</p>
 
-## 📈 My GitHub Stats
+## 📈 𝕄𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤:
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mukund1606&label=Profile%20views&color=0e75b6&style=flat" alt="mukund1606" /> </p>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukund1606&show_icons=true&theme=radical" alt="mukund1606" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com?user=mukund1606&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="mukund1606" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&layout=compact&theme=radical" alt="mukund1606" /></p>
+<!-- Profile Stats -->
+  <p align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=mukund1606&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=mukund1606&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=mukund1606&show_icons=true" />
+    </picture>
+  </p>
+<!-- Contribution Stats -->
+  <p align="center">
+    <picture>
+      <source
+        srcset="https://streak-stats.demolab.com?user=mukund1606&theme=dark&date_format=j%20M%5B%20Y%5D"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://streak-stats.demolab.com?user=mukund1606&date_format=j%20M%5B%20Y%5D"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://streak-stats.demolab.com?user=mukund1606&date_format=j%20M%5B%20Y%5D" />
+    </picture>
+  </p>
+<!-- Most Used Languages -->
+  <p align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&exclude_repo="
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo="
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=" alt="mukund1606" />
+    </picture>
+  </p>
+<!-- Wakatime Stats -->
+  <p align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mukund1606&v=2&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mukund1606&v=2"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mukund1606&v=2" alt="mukund1606" />
+    </picture>
+  </p>
+<!-- Trophies -->
+  <p align="center">
+    <picture>
+      <source
+        srcset="https://github-profile-trophy.vercel.app/?username=mukund1606&margin-w=15&margin-h=15&theme=alduin"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-profile-trophy.vercel.app/?username=mukund1606&margin-w=15&margin-h=15"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=mukund1606&margin-w=15&margin-h=15" alt="mukund1606" />
+    </picture>
+  </p>
 </div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukund1606" alt="mukund1606" /></a> </p>
