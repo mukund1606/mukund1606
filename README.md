@@ -1,47 +1,8 @@
-<style>
-  h1 {
-  color: red;
-  animation: myanimation 2s infinite;
-  border: 0;
-  margin-bottom: 0;
-  padding-bottom: 5px;
-}
-
-  @keyframes myanimation {
-    0% {
-      color: #ee6055;
-    }
-    25% {
-      color: #60d394;
-    }
-    50% {
-      color: #aaf683;
-    }
-    75% {
-      color: #ffd97d;
-    }
-    100% {
-      color: #ff9b85;
-    }
-  }
-
-  #top-container{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-</style>
-<div id="top-container">
-  <h1>ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 𝕄𝕦𝕜𝕦𝕟𝕕 𝕄𝕚𝕥𝕥𝕒𝕝</h1>
-  <span>
-    <!-- <p align="center"> <img src="https://profile-counter.glitch.me/mukund/count.svg" alt="profile counter">
-    </p> -->
-  <span>
-</div>
-
-## ɪ'ᴍ ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+<h1>ℍ𝕖𝕝𝕝𝕠, 𝕀'𝕞 𝕄𝕦𝕜𝕦𝕟𝕕 𝕄𝕚𝕥𝕥𝕒𝕝</h1>
 
 ## 📖 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
+
+### ɪ'ᴍ ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ
 
 - 🎓 3ʀᴅ ʏᴇᴀʀ ꜱᴛᴜᴅᴇɴᴛ ᴀᴛ, [ꜱʀᴍ ᴜɴɪᴠᴇʀꜱɪᴛʏ, ꜱᴏɴᴇᴘᴀᴛ](https://srmuniversity.ac.in/).
 
@@ -122,6 +83,14 @@
 ## 📈 𝕄𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤:
 
 <div align="center">
+
+### ⌚ Profile Views
+
+<img src="https://profile-counter.glitch.me/mukund1606/count.svg" alt="profile counter">
+
+<br />
+<br />
+
 <!-- Profile Stats -->
   <p align="center">
     <picture>
