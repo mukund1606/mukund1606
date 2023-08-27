@@ -137,14 +137,14 @@
   <p align="center">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mukund1606&v=2&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mukund1606&v=2&theme=dark&layout=compact"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mukund1606&v=2"
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=mukund1606&v=2&layout=compact"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mukund1606&v=2" alt="mukund1606" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mukund1606&v=2&layout=compact" alt="mukund1606" />
     </picture>
   </p>
 <!-- Trophies -->
