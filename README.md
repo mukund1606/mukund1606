@@ -95,40 +95,40 @@
   <p align="center">
     <picture>
       <source
-        srcset="https://githubstats.mukund.page/api?username=mukund1606&show_icons=true&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api?username=mukund1606&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://githubstats.mukund.page/api?username=mukund1606&show_icons=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=mukund1606&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://githubstats.mukund.page/api?username=mukund1606&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mukund1606&show_icons=true" />
     </picture>
   </p>
 <!-- Contribution Stats -->
   <p align="center">
     <picture>
       <source
-        srcset="https://githubstreakstats.mukund.page?user=mukund1606&theme=dark&date_format=j%20M%5B%20Y%5D"
+        srcset="https://streak-stats.demolab.com?user=mukund1606&theme=dark&date_format=j%20M%5B%20Y%5D"
         media="(prefers-color-scheme: dark)"
       />
       <source
         srcset="https://githubstreakstats.mukund.page?user=mukund1606&date_format=j%20M%5B%20Y%5D"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://githubstreakstats.mukund.page?user=mukund1606&date_format=j%20M%5B%20Y%5D" />
+      <img src="https://streak-stats.demolab.com?user=mukund1606&date_format=j%20M%5B%20Y%5D" />
     </picture>
   </p>
     <picture>
       <source
-        srcset="https://githubstats.mukund.page/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&exclude_repo="
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&exclude_repo="
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://githubstats.mukund.page/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo="
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo="
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="https://githubstats.mukund.page/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=" alt="mukund1606" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukund1606&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=" alt="mukund1606" />
     </picture>
 <!-- Most Used Languages -->
   <p align="center">
