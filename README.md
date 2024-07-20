@@ -4,13 +4,12 @@
 
 ### ɪ'ᴍ ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ
 
-- 🎓 3ʀᴅ ʏᴇᴀʀ ꜱᴛᴜᴅᴇɴᴛ ᴀᴛ, [ꜱʀᴍ ᴜɴɪᴠᴇʀꜱɪᴛʏ, ꜱᴏɴᴇᴘᴀᴛ](https://srmuniversity.ac.in/).
+- 🎓 Final Year student at [SRM University, Delhi-NCR, Sonepat](https://srmuniversity.ac.in/).
 
-- 🌱 ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴛʜʀᴇᴇ.ᴊꜱ, ᴛꜱ, ɴᴇxᴛ.ᴊꜱ**
+- 🌱 Currently Learning Game Development using [**Godot Engine**](https://godotengine.org/)
 
-- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **ᴘʏᴛʜᴏɴ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ɴᴇxᴛᴊꜱ**
+- 💬 𝖠𝗌𝗄 𝗆𝖾 𝖺𝖻𝗈𝗎𝗍 **𝖯𝗒𝗍𝗁𝗈𝗇**, **𝖳𝗒𝗉𝖾𝗌𝖼𝗋𝗂𝗉𝗍** 𝖺𝗇𝖽 **𝖭𝖾𝗑𝗍.𝗃𝗌**
 
-- ⚡ ꜰᴜɴ ꜰᴀᴄᴛ **ɪ ʟᴏᴠᴇ ᴍᴜꜱɪᴄ ᴀɴᴅ ꜱᴘᴀᴄᴇ**
 
 <!-- - 🔭 ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [ʟᴇᴀʀɴɪɴɢ ᴛʜʀᴇᴇ.ᴊꜱ](https://github.com/mukund1606/learning-three-js) -->
 
