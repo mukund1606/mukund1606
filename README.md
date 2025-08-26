@@ -83,9 +83,9 @@
 
 <div align="center">
 
-### ⌚ Profile Views
 
 <!--
+### ⌚ Profile Views
 
 <img src="https://profile-counter.glitch.me/mukund1606/count.svg" alt="profile counter">
 
