@@ -85,10 +85,14 @@
 
 ### ⌚ Profile Views
 
+<!--
+
 <img src="https://profile-counter.glitch.me/mukund1606/count.svg" alt="profile counter">
 
 <br />
 <br />
+
+-->
 
 <!-- Profile Stats -->
   <p align="center">
@@ -147,6 +151,7 @@
     </picture>
   </p>
 <!-- Trophies -->
+<!--
   <p align="center">
     <picture>
       <source
@@ -160,4 +165,5 @@
       <img align="center" src="https://github-profile-trophy.vercel.app/?username=mukund1606&margin-w=15&margin-h=15" alt="mukund1606" />
     </picture>
   </p>
+  -->
 </div>
